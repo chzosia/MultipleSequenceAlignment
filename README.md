@@ -29,7 +29,7 @@ python MSA.py
 
 ### Step 3: Align Sequences
 
-Once your sequences are loaded, click the **"Run Alignment"** button. The program will perform the multiple sequence alignment and display the results in the GUI.
+Once your sequences are loaded, you can check if the match, mismatch and gap penalty values are as you prefer. If needed, you can customize them to your preferences. Then, click the **"Run Alignment"** button. The program will perform the multiple sequence alignment and display the results in the GUI.
 
 ### Step 4: View Alignment Results
 
